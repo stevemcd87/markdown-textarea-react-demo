@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/markdown-textarea-react-demo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/markdown-textarea-react-demo/static/js/main.66149821.chunk.js",
+    "main.js.map": "/markdown-textarea-react-demo/static/js/main.66149821.chunk.js.map",
+    "runtime-main.js": "/markdown-textarea-react-demo/static/js/runtime-main.fb7b37d1.js",
+    "runtime-main.js.map": "/markdown-textarea-react-demo/static/js/runtime-main.fb7b37d1.js.map",
+    "static/js/2.7b18d162.chunk.js": "/markdown-textarea-react-demo/static/js/2.7b18d162.chunk.js",
+    "static/js/2.7b18d162.chunk.js.map": "/markdown-textarea-react-demo/static/js/2.7b18d162.chunk.js.map",
+    "index.html": "/markdown-textarea-react-demo/index.html",
+    "precache-manifest.ba16a1a71c30dace6ab6bb5a34243b50.js": "/markdown-textarea-react-demo/precache-manifest.ba16a1a71c30dace6ab6bb5a34243b50.js",
+    "service-worker.js": "/markdown-textarea-react-demo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/markdown-textarea-react-demo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7b18d162.chunk.js.LICENSE.txt": "/markdown-textarea-react-demo/static/js/2.7b18d162.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/markdown-textarea-react-demo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb7b37d1.js",
+    "static/js/2.7b18d162.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.66149821.chunk.js"
+  ]
+}
