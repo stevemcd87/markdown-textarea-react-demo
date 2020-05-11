@@ -3,11 +3,40 @@
   margin: 0 auto;
   display: block;
 }
+.markdown-textarea {
+  padding: 10px;
+  background-color: lightblue;
+}
+.mtr-h1,.mtr-h4{
+  margin: 0 auto;
+  margin-bottom: 6px;
+  text-align: center;
+  width: 80%;
+}
+.mtr-h4 {
+    border-bottom: 1px solid black;
+}
+.mtr-table {
+  margin: 0 auto;
+}
+.mtr-td,.mtr-th {
+  padding: 5px;
+}
+.mtr-td {
+  text-align: center;
+}
 .mtr-code, .mtr-code-component {
-  background-color: lightgrey
+  background-color: lightgrey;
 }
 
 .mtr-blockquote {
   border-left: 2px solid grey;
   padding-left: 20px;
+}
+
+@media screen and (min-width:600px) {
+  .markdown-textarea {
+    display: grid;
+    grid-template-columns: 45% 55%;
+  }
 }
